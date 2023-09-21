@@ -1,17 +1,17 @@
-    data.forEach(item => {
-    });
-function main() {
-    const data = [];
-    return data;
     for (let i = 0; i < 10; i++) {
+        console.log("Random Number: " + item);
+        data.push(Math.floor(Math.random() * 100) + 1);
+}
+
+
 }
     }
-
-    const data = generateRandomData();
-}
-        console.log("Random Number: " + item);
-
-        data.push(Math.floor(Math.random() * 100) + 1);
-main();
-
 function generateRandomData() {
+function main() {
+main();
+    });
+    data.forEach(item => {
+
+    const data = [];
+    const data = generateRandomData();
+    return data;
